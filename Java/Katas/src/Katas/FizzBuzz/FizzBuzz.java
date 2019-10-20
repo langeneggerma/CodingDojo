@@ -9,9 +9,10 @@ public class FizzBuzz {
 
         if (number == 0) return numberToString;
         
-        if (number % 3 == 0) result = "fizz";
-        if (number % 5 == 0) result = result + "buzz";
+        if (number % 3 == 0) result = "Fizz";
+        if (number % 5 == 0) result = result + "Buzz";
 
+        if (result.isEmpty()) return numberToString;
         return result;
     }
 }
