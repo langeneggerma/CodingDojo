@@ -1,0 +1,21 @@
+{
+  "name": "codingdojo/katas",
+  "version": "1.0.0",
+  "description": "This is test Codingdojo",
+  "license": "None",
+  "type": "katas",
+  "require-dev": {
+    "phpunit/phpunit": "~4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "CodingDojo\\": "classes/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Markus Langeneggerr",
+      "email": "langenegger_ma@bluewin.ch"
+    }
+  ]
+}

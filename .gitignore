@@ -18,3 +18,9 @@ out/
 *.iml
 *.ipr
 *.iws
+
+# Vendor directorys
+vendor/
+
+# Lockfiles
+composer.lock
