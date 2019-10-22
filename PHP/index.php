@@ -5,9 +5,4 @@ if ( !file_exists(__DIR__ . '/vendor/autoload.php')) {
 }
 require __DIR__ . '/vendor/autoload.php';
 
-$object = new \CodingDojo\FizzBuzz();
-
-for($i = 1; $i < 20;$i++){
-    echo $object->toFizzBuzz($i).'<br>';
-}
 

@@ -1,6 +1,6 @@
-# Katas (csharpcode.de)
+# Katas
 
-## Coding Katas with samples for Java.
+## Coding Katas with samples for Java and PHP.
 
 ## Catalogue
 
