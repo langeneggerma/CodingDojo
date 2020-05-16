@@ -1,7 +1,7 @@
 <?php
 
 
-namespace CodingDojo;
+namespace CodingDojo\Dojos;
 
 
 class FizzBuzz
